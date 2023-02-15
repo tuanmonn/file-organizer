@@ -32,6 +32,9 @@
   ('pyiboot01_bootstrap',
    '/Users/hungtuan.nguyen/Library/Python/3.8/lib/python/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
    'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   '/Users/hungtuan.nguyen/Library/Python/3.8/lib/python/site-packages/PyInstaller/hooks/rthooks/pyi_rth__tkinter.py',
+   'PYSOURCE'),
   ('main',
    '/Users/hungtuan.nguyen/Downloads/file-organizer-python/file-organizer/main.py',
    'PYSOURCE'),
@@ -44,7 +47,7 @@
  [],
  False,
  False,
- 1676367066,
+ 1676457556,
  [('run',
    '/Users/hungtuan.nguyen/Library/Python/3.8/lib/python/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
    'EXECUTABLE')])
