@@ -35,9 +35,9 @@ After rigorous search attempt, I figured out the **correct** command to use for 
 
 `[special_command_for_the_schedule] [space] [path_to_the_executable_file_dont_input_the_extension]`
 
-Example:
+Example: I want to run the program everyday at 10AM
 
-`* * * * * /Users/{your_username}/Downloads/python-file-organizer/file-organizer/dist/main/main`
+`0 10 * * * /Users/{your_username}/Downloads/python-file-organizer/file-organizer/dist/main/main`
 
 _Notes: For the special commands of crontab, visit: https://crontab.guru/_
 
