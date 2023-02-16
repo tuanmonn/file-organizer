@@ -47,7 +47,7 @@
  [],
  False,
  False,
- 1676457556,
+ 1676539835,
  [('run',
    '/Users/hungtuan.nguyen/Library/Python/3.8/lib/python/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
    'EXECUTABLE')])
