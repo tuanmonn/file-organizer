@@ -33,10 +33,11 @@ On macOS, there's a program called **Crontab** that can let you schedule a task 
 
 After rigorous search attempt, I figured out the **correct** command to use for my computer (why doesn't the Internet have it before?). It's in this format:
 
-[special_command_for_the_schedule] [space] [path_to_the_executable_file_dont_input_the_extension]
+`[special_command_for_the_schedule] [space] [path_to_the_executable_file_dont_input_the_extension]`
 
 Example:
-`* * * * * /Users/hungtuan.nguyen/Downloads/python-file-organizer/file-organizer/dist/main/main`
+
+`* * * * * /Users/{your_username}/Downloads/python-file-organizer/file-organizer/dist/main/main`
 
 _Notes: For the special commands of crontab, visit: https://crontab.guru/_
 
