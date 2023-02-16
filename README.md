@@ -24,7 +24,12 @@ With the above pain point, I need a solution to:
 4. The program will run, opening a window for you to select the folder you want to clean up. 
 5. Choose the folder and let the magic works. Check your folder and gasps in disbelief. 
 
-**Eh wait, what if you want to automate this?**
+_Eh wait, didn't you promise that this program will run periodically?_
+
+Yes! It's possible, with some tweaks. To make that happen, we need the help of Crontab 👇
+
+## How to use Crontab to automate your program?
+
 On macOS, there's a program called **Crontab** that can let you schedule a task to run periodically. Follow these steps to set up Crontab to work with FO:
 
 1. Open your terminal, type `crontab -e` to open the editor of crontab
