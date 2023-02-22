@@ -1,8 +1,6 @@
 import os
 import shutil
 import glob
-from tkinter import Tk 
-from tkinter.filedialog import askdirectory
 from folderSelector import *
  
 run_program()

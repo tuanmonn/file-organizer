@@ -1,6 +1,4 @@
 import os
-import shutil
-import glob
 import tkinter as tk
 from tkinter.filedialog import askdirectory
 
